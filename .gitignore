@@ -15,8 +15,6 @@ dist-ssr
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
-src/firebase.config.js
-firebase.config.js
 .idea
 .DS_Store
 .env
